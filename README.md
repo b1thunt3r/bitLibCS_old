@@ -1,2 +1,4 @@
 # bitLibCS_old
-SOme old gems i found.
+Some old gems i found.
+
+Part of my process to "backup" old code.
