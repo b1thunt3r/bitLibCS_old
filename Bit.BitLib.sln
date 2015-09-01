@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit.BitLib", "Bit.BitLib.csproj", "{C7BACCD2-0D29-491F-BE3B-C710AAB1AC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTest", "..\LibTest\LibTest.csproj", "{1EE65750-44E5-4D88-BD6E-0CA87E269059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BACCD2-0D29-491F-BE3B-C710AAB1AC73}.Debug|x86.ActiveCfg = Debug|x86
+		{C7BACCD2-0D29-491F-BE3B-C710AAB1AC73}.Debug|x86.Build.0 = Debug|x86
+		{C7BACCD2-0D29-491F-BE3B-C710AAB1AC73}.Release|x86.ActiveCfg = Release|x86
+		{C7BACCD2-0D29-491F-BE3B-C710AAB1AC73}.Release|x86.Build.0 = Release|x86
+		{1EE65750-44E5-4D88-BD6E-0CA87E269059}.Debug|x86.ActiveCfg = Debug|x86
+		{1EE65750-44E5-4D88-BD6E-0CA87E269059}.Debug|x86.Build.0 = Debug|x86
+		{1EE65750-44E5-4D88-BD6E-0CA87E269059}.Release|x86.ActiveCfg = Release|x86
+		{1EE65750-44E5-4D88-BD6E-0CA87E269059}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
